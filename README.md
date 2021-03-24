@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Moana
+- 👀 Interested in veterinary
+- 🌱 I’m currently learning python
+- 📫 lyg0803@hotmail.com
